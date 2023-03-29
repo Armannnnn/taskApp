@@ -1,9 +1,4 @@
-//
-//  firstAppTests.swift
-//  firstAppTests
-//
-//  Created by Anastasiya on 04.02.2023.
-//
+
 
 import XCTest
 @testable import firstApp
