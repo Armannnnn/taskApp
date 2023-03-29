@@ -75,18 +75,5 @@ extension ContainerViewController: HomeViewControllerDelegate, CreateTaskViewCon
         
     }
     
-    func close() {
-        createTaskVC.dismiss(animated: true)
-        let lsad = UIButton()
-        lsad.setTitle("adslda;", for: .normal)
-        lsad.backgroundColor = .black
-        lsad.translatesAutoresizingMaskIntoConstraints = false
-        lsad.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
-        lsad.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -100).isActive = true
-        lsad.widthAnchor.constraint(equalToConstant: 343).isActive = true
-        lsad.heightAnchor.constraint(equalToConstant: 48).isActive = true
-        homeVC.view.addSubview(lsad)
-    }
-    
 }
 
