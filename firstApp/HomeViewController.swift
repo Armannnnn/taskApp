@@ -1,9 +1,3 @@
-//
-//  HomeViewController.swift
-//  firstApp
-//
-//  Created by Anastasiya on 12.02.2023.
-//
 
 import UIKit
 
@@ -113,9 +107,4 @@ class HomeViewController: UIViewController {
 
 }
 
-//extension HomeViewController: CreateTaskViewControllerDelegate{
-//    func close() {
-//        let label1 = UILabel()
-//        view.addSubview(label1)
-//    }
-//}
+
