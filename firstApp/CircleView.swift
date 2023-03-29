@@ -1,9 +1,4 @@
-//
-//  CircleView.swift
-//  firstApp
-//
-//  Created by Anastasiya on 19.03.2023.
-//
+
 
 import UIKit
 
