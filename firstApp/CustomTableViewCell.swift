@@ -1,9 +1,3 @@
-//
-//  CustomTableViewCell.swift
-//  firstApp
-//
-//  Created by Anastasiya on 27.02.2023.
-//
 
 import UIKit
 
